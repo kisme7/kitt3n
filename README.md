@@ -1,4 +1,4 @@
-Kitt3n v1.0 - Kismet
+kitt3n v1.0 - Kismet
 
 Locate test.txt and add your shells/shell url path 
 
